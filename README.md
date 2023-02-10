@@ -1,3 +1,3 @@
 # Animal
-Name:
-Email:
+Name: Test Name
+Email: test@email.at
